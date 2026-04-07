@@ -79,13 +79,13 @@ public class Ram implements BackendEngineer {
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=ffffff&hide_border=true" />
 </div>
------
-## 🎯 Currently
-- 🔭 Working on **high-availability backend systems** in the BFSI space
-- 📚 Deep-diving into **Advanced Spring Boot internals** (AOP, Bean Lifecycle, Transaction management)
-- 🎯 Exploring **System Design patterns** for senior engineering roles
-- 💬 Ask me about **Java, Spring Boot, Kafka, Microservices, AWS**
------
+
+🎯 Currently
+	∙	🔭 Working on high-availability backend systems in the BFSI space
+	∙	📚 Deep-diving into Advanced Spring Boot — AOP, Bean Lifecycle, Transactions
+	∙	🎯 Exploring System Design patterns for senior engineering roles
+	∙	💬 Ask me about Java · Spring Boot · Kafka · Microservices · AWS
+
 <div align="center">💡 “First, solve the problem. Then, write the code.”
 <img src="https://komarev.com/ghpvc/?username=Ram-Gaire&color=4FC3F7&style=for-the-badge&label=PROFILE+VIEWS" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" /></div>
 
