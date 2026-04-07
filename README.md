@@ -4,29 +4,34 @@
 <a href="https://github.com/Ram-Gaire"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 -----
-## 🧠 About Me
+
+🧠 About Me
 
 @Component
 public class Ram implements BackendEngineer {
-   private final String role        = "Senior Software Engineer";
-   private final String experience  = "5 Years";
-   private final String location    = "Pune, India 🇮🇳";
-   private final String domain      = "BFSI & FinTech";
-   private final String education   = "M.Tech – BITS Pilani";
-   @Override
-   public String[] currentFocus() {
-       return new String[]{
-           "Building high-throughput microservices",
-           "Event-driven systems with Apache Kafka",
-           "Cloud-native deployments on AWS ECS",
-           "Large-scale batch processing with Spring Batch"
-       };
-   }
-   @Override
-   public String funFact() {
-       return "I debug production issues faster than I brew coffee ☕";
-   }
+
+    private final String role       = "Senior Software Engineer";
+    private final String experience = "5 Years";
+    private final String location   = "Pune, India 🇮🇳";
+    private final String domain     = "BFSI & FinTech";
+    private final String education  = "M.Tech – BITS Pilani";
+
+    @Override
+    public String[] currentFocus() {
+        return new String[]{
+            "Building high-throughput microservices",
+            "Event-driven systems with Apache Kafka",
+            "Cloud-native deployments on AWS ECS",
+            "Large-scale batch processing with Spring Batch"
+        };
+    }
+
+    @Override
+    public String funFact() {
+        return "I debug production issues faster than I brew coffee ☕";
+    }
 }
+
 
 -----
 ## 🛠️ Tech Stack
