@@ -35,7 +35,6 @@ public class Ram implements BackendEngineer {
 
 
 
------
 🛠️ Tech Stack<br>
 🔷 Core Languages & Frameworks: 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -57,7 +56,6 @@ public class Ram implements BackendEngineer {
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
------
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ram-Gaire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9" />
@@ -75,16 +73,16 @@ public class Ram implements BackendEngineer {
 ✅ Secure BFSI Platforms        →  Compliance, audit logging, transaction integrity
 
 
-## 📈 Activity Graph
+📈 Activity Graph
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=ffffff&hide_border=true" />
 </div>
 
 🎯 Currently
-	∙	🔭 Working on high-availability backend systems in the BFSI space
-	∙	📚 Deep-diving into Advanced Spring Boot — AOP, Bean Lifecycle, Transactions
-	∙	🎯 Exploring System Design patterns for senior engineering roles
-	∙	💬 Ask me about Java · Spring Boot · Kafka · Microservices · AWS
+	∙	🔭 Working on high-availability backend systems in the BFSI space<br>
+	∙	📚 Deep-diving into Advanced Spring Boot — AOP, Bean Lifecycle, Transactions<br>
+	∙	🎯 Exploring System Design patterns for senior engineering roles<br>
+	∙	💬 Ask me about Java · Spring Boot · Kafka · Microservices · AWS<br>
 
 <div align="center">💡 “First, solve the problem. Then, write the code.”
 <img src="https://komarev.com/ghpvc/?username=Ram-Gaire&color=4FC3F7&style=for-the-badge&label=PROFILE+VIEWS" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" /></div>
