@@ -8,8 +8,9 @@
 
 🧠 About Me
 
-@Component
+@Component<br>
 public class Ram implements BackendEngineer {
+
     private final String role       = "Senior Software Engineer";
     private final String experience = "5 Years";
     private final String location   = "Pune, India 🇮🇳";
@@ -35,19 +36,23 @@ public class Ram implements BackendEngineer {
 
 
 -----
-🛠️ Tech Stack
-🔷 Core Languages & Frameworks
+🛠️ Tech Stack<br>
+🔷 Core Languages & Frameworks: 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />⚡ Messaging & Streaming
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />☁️ Cloud & DevOps
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" /><br>
+⚡ Messaging & Streaming: 
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /><br>
+☁️ Cloud & DevOps: 
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
 <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
 <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />🗄️ Databases
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
+🗄️ Databases: 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />🧰 Tools
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /><br>
+🧰 Tools: 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -60,22 +65,13 @@ public class Ram implements BackendEngineer {
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Ram-Gaire&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7" />
 </div>
------
-## 🏆 Highlights
-<div align="center">
-|🏗️ Domain Expertise          |📦 Scale Handled            |⚙️ Architecture Style        |
-|----------------------------|---------------------------|----------------------------|
-|BFSI & Regulatory Compliance|1M+ record data pipelines  |Microservices + Event-driven|
-|Superannuation Systems      |High-availability REST APIs|SAGA & Outbox patterns      |
-|FinTech Integrations        |AWS ECS Auto-scaling       |Spring Batch ETL            |
-</div>
------
+
 🚀 What I Build
 
-✅ Distributed Microservices    →  Resilient, loosely-coupled service meshes
-✅ Event-Driven Pipelines       →  Real-time data flows via Apache Kafka
-✅ Batch Processing Systems     →  Millions of records with Spring Batch
-✅ Cloud-Native Deployments     →  Docker + AWS ECS with auto-scaling
+✅ Distributed Microservices    →  Resilient, loosely-coupled service meshes<br>
+✅ Event-Driven Pipelines       →  Real-time data flows via Apache Kafka<br>
+✅ Batch Processing Systems     →  Millions of records with Spring Batch<br>
+✅ Cloud-Native Deployments     →  Docker + AWS ECS with auto-scaling<br>
 ✅ Secure BFSI Platforms        →  Compliance, audit logging, transaction integrity
 
 
