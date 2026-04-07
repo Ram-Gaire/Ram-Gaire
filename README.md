@@ -7,7 +7,6 @@
 
 
 🧠 About Me
-
 @Component<br>
 public class Ram implements BackendEngineer {
 
@@ -65,7 +64,6 @@ public class Ram implements BackendEngineer {
 </div>
 
 🚀 What I Build
-
 ✅ Distributed Microservices    →  Resilient, loosely-coupled service meshes<br>
 ✅ Event-Driven Pipelines       →  Real-time data flows via Apache Kafka<br>
 ✅ Batch Processing Systems     →  Millions of records with Spring Batch<br>
