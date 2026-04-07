@@ -10,7 +10,6 @@
 
 @Component
 public class Ram implements BackendEngineer {
-
     private final String role       = "Senior Software Engineer";
     private final String experience = "5 Years";
     private final String location   = "Pune, India 🇮🇳";
