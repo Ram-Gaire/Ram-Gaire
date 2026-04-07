@@ -14,7 +14,7 @@
 </div>
 -----
 ## 🧠 About Me
-```java
+
 @Component
 public class Ram implements BackendEngineer {
    private final String role        = "Senior Software Engineer";
@@ -36,7 +36,7 @@ public class Ram implements BackendEngineer {
        return "I debug production issues faster than I brew coffee ☕";
    }
 }
-```
+
 -----
 ## 🛠️ Tech Stack
 <div align="center">
