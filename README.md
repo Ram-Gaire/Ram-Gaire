@@ -71,15 +71,15 @@ public class Ram implements BackendEngineer {
 |FinTech Integrations        |AWS ECS Auto-scaling       |Spring Batch ETL            |
 </div>
 -----
-## 🚀 What I Build
-```
-✅ Distributed Microservices     → Resilient, loosely-coupled service meshes
-✅ Event-Driven Pipelines        → Real-time data flows via Apache Kafka
-✅ Batch Processing Systems      → Millions of records with Spring Batch
-✅ Cloud-Native Deployments      → Docker + AWS ECS with auto-scaling
-✅ Secure BFSI Platforms         → Compliance, audit logging, transaction integrity
-```
------
+🚀 What I Build
+
+✅ Distributed Microservices    →  Resilient, loosely-coupled service meshes
+✅ Event-Driven Pipelines       →  Real-time data flows via Apache Kafka
+✅ Batch Processing Systems     →  Millions of records with Spring Batch
+✅ Cloud-Native Deployments     →  Docker + AWS ECS with auto-scaling
+✅ Secure BFSI Platforms        →  Compliance, audit logging, transaction integrity
+
+
 ## 📈 Activity Graph
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=ffffff&hide_border=true" />
