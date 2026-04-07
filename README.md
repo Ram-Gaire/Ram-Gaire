@@ -91,8 +91,7 @@ public class Ram implements BackendEngineer {
 - 🎯 Exploring **System Design patterns** for senior engineering roles
 - 💬 Ask me about **Java, Spring Boot, Kafka, Microservices, AWS**
 -----
-<div align="center">
-### 💡 *“First, solve the problem. Then, write the code.”*
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=4FC3F7&style=for-the-badge&label=PROFILE+VIEWS)
-</div>
+<div align="center">💡 “First, solve the problem. Then, write the code.”
+<img src="https://komarev.com/ghpvc/?username=Ram-Gaire&color=4FC3F7&style=for-the-badge&label=PROFILE+VIEWS" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" /></div>
+
+
