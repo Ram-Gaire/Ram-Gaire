@@ -56,10 +56,10 @@ public class Ram implements BackendEngineer {
 -----
 ## 📊 GitHub Stats
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ram-Gaire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-Gaire&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Ram-Gaire&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7" />
 </div>
 -----
 ## 🏆 Highlights
