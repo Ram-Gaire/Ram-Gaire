@@ -1,7 +1,7 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Ram%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%205%20Years%20of%20Crafting%20Scalable%20Systems&descSize=16&descAlignY=58&descColor=a0c4ff" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Microservices;Apache+Kafka+%7C+AWS+%7C+Docker;Building+systems+that+scale+to+millions;5%2B+years+in+BFSI+%26+FinTech+domains" alt="Typing SVG" /><br/>
-<a href="www.linkedin.com/in/ram-gaire-0ba431174"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/yourprofile"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://linkedin.com/in/ram-gaire-0ba431174"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:raamgaire@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/RamGaire/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://github.com/Ram-Gaire"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
