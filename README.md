@@ -6,7 +6,7 @@
 
 
 
-🧠 About Me
+<h1>🧠 About Me</h1><br>
 @Component<br>
 public class Ram implements BackendEngineer {
 
@@ -34,28 +34,28 @@ public class Ram implements BackendEngineer {
 
 
 
-🛠️ Tech Stack<br>
-🔷 Core Languages & Frameworks: 
+<h1>🛠️ Tech Stack</h1><br>
+<h3>🔷 Core Languages & Frameworks</h3>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" /><br>
-⚡ Messaging & Streaming: 
+<h3>⚡ Messaging & Streaming </h3>
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /><br>
-☁️ Cloud & DevOps: 
+<h3>☁️ Cloud & DevOps </h3>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
 <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
 <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
-🗄️ Databases: 
+<h3>🗄️ Databases </h3> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /><br>
-🧰 Tools: 
+<h3>🧰 Tools </h3> 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-## 📊 GitHub Stats
+<h1>📊 GitHub Stats</h1><br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ram-Gaire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-Gaire&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9" />
@@ -63,7 +63,7 @@ public class Ram implements BackendEngineer {
   <img src="https://streak-stats.demolab.com?user=Ram-Gaire&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7" />
 </div>
 
-🚀 What I Build
+<h1>🚀 What I Build</h1><br>
 ✅ Distributed Microservices    →  Resilient, loosely-coupled service meshes<br>
 ✅ Event-Driven Pipelines       →  Real-time data flows via Apache Kafka<br>
 ✅ Batch Processing Systems     →  Millions of records with Spring Batch<br>
@@ -71,18 +71,18 @@ public class Ram implements BackendEngineer {
 ✅ Secure BFSI Platforms        →  Compliance, audit logging, transaction integrity
 
 
-📈 Activity Graph
+<h1>📈 Activity Graph</h1><br>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=ffffff&hide_border=true" />
 </div>
 
-🎯 Currently
+<h1>🎯 Currently</h1><br>
 	∙	🔭 Working on high-availability backend systems in the BFSI space<br>
 	∙	📚 Deep-diving into Advanced Spring Boot — AOP, Bean Lifecycle, Transactions<br>
 	∙	🎯 Exploring System Design patterns for senior engineering roles<br>
 	∙	💬 Ask me about Java · Spring Boot · Kafka · Microservices · AWS<br>
 
-<div align="center">💡 “First, solve the problem. Then, write the code.”
-<img src="https://komarev.com/ghpvc/?username=Ram-Gaire&color=4FC3F7&style=for-the-badge&label=PROFILE+VIEWS" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" /></div>
+<div align="center"><h3>💡 “First, solve the problem. Then, write the code.”</h3><br>
+<img src="https://komarev.com/ghpvc/?username=Ram-Gaire&color=4FC3F7&style=for-the-badge&label=PROFILE+VIEWS" /><br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" /></div>
 
 
